@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m a pre-final year student at Vellore Institute of Technology, Chennai<br>👨🏻‍💻 I’ve worked on languages like Python, C, C++, Java, HTML, CSS, MySQL, JS<br>💭 I like Problem Solving and am known for my out-of-the-box thinking.<br>🌱 I’m currently learning Machine Learning <br>⚡ Exploring Web Development<br>🤝 Wanna collaborate? 
+# 💫 Hey there! This is Dhanush
+🔭 I’m a pre-final year student at Vellore Institute of Technology, Chennai<br>👨🏻‍💻 I’ve worked on languages like Python, C, C++, Java, HTML, CSS, MySQL, JS<br>💭 I like Problem Solving and am known for my out-of-the-box thinking.<br>🌱 I’m currently learning Machine Learning <br>⚡ Exploring Web Development<br>🤝 Wanna collaborate?: http://www.linkedin.com/in/dhanush-mohan-62359a259
 
 
 # 💻 Tech Stack:
